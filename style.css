@@ -57,6 +57,7 @@ h1 {
   justify-content: end;
   padding: 1vh;
   margin-bottom: 2vh;
+  color: white;
 }
 .close:hover {
   cursor: pointer;
